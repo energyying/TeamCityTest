@@ -6,6 +6,10 @@ package com.energyying.tc.sample;
 public class TeamCity {
 
     public Long getLong(String input){
-        return new Long(input);
+        if(input == ""){
+            return 1L;
+        }else{
+            return new Long(input);
+        }
     }
 }
