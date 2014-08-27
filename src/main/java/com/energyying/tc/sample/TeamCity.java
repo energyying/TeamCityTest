@@ -1,3 +1,5 @@
+package com.energyying.tc.sample;
+
 /**
  * Created by DEV001 on 2014/8/27.
  */
