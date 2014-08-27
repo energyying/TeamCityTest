@@ -1,0 +1,12 @@
+bin
+target
+.settings
+.project
+.classpath
+.svn
+.gitconfig
+
+*.iml
+/out
+/.idea/
+/*.iws
